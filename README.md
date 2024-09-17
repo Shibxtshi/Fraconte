@@ -1,6 +1,6 @@
 Language : English & Français
 
-------------------------------------------------------------ENGLISH-------------------------------------------------------------------
+--------------------------------------------------------ENGLISH--------------------------------------------------------------
 
 Welcome to the GitHub of Fraconte! 
 
@@ -11,7 +11,7 @@ All requests will be considered and may be part of the new versions of the mod.
 
 ⚠️ No tolerance will be made on proposals that go against the purpose of this mod ⚠️
 
-------------------------------------------------------------FRANCAIS------------------------------------------------------------------
+-------------------------------------------------------FRANCAIS--------------------------------------------------------------
 
 Bienvenue sur le GitHub de Fraconte ! 
 
