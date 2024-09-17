@@ -14,7 +14,7 @@ All requests will be considered and may be part of the new versions of the mod.
 Summary of added content : \
 -Shuriken\
 -Katanas\
--Adamite Ore\
+-Adamite Ore
 
 -------------------------------------------------------FRANCAIS--------------------------------------------------------------
 
@@ -30,4 +30,4 @@ Toutes requêtes seront examinées et feront peut-être partie de la nouvelles v
 Résumé du contenu ajouté : \
 -Shuriken\
 -Katanas\
--Minerais d'Adamite\
+-Minerais d'Adamite
