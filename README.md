@@ -1,5 +1,7 @@
 Language : English & Français
 
+![HomePic](https://github.com/user-attachments/assets/a26a5e13-706e-469d-9a8d-03a72043ab93)
+
 --------------------------------------------------------ENGLISH--------------------------------------------------------------
 
 Welcome to the GitHub of Fraconte! 
