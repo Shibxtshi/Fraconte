@@ -25,7 +25,7 @@ L'objectif est simple, s'amuser en ajoutant du contenu sympa sans rendre Minecra
 
 Toutes requêtes seront examinées et feront peut-être partie de la nouvelles versions du mod. 
 
-⚠️ Aucune tolérance ne sera faite sur des propositions allant a l'encontre de l'objectif de ce mod ⚠️
+⚠️ Aucune tolérance ne sera faite sur des propositions allant à l'encontre de l'objectif de ce mod ⚠️
 
 Résumé du contenu ajouté : \
 -Shuriken\
