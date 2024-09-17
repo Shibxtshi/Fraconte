@@ -4,7 +4,7 @@ Language : English & Français
 
 Welcome to the GitHub of Fraconte! 
 
-Fraconte is a mod under NeoForge, developed to enrich his Minecraft adventure with new elements such as new weapons, new structures, etc...
+Fraconte is a mod under NeoForge, developed to enrich his Minecraft adventure with new elements such as new weapons, new structures, etc...\
 The objective is simple, have fun adding nice content without making Minecraft more complete without making it too complicated. 
 
 All requests will be considered and may be part of the new versions of the mod. 
@@ -20,7 +20,7 @@ Summary of added content : \
 
 Bienvenue sur le GitHub de Fraconte ! 
 
-Fraconte est un mod sous NeoForge, développé pour enrichir son aventure Minecraft avec des éléments nouveaux tels que de nouvelles armes, de nouvelles structures, etc...
+Fraconte est un mod sous NeoForge, développé pour enrichir son aventure Minecraft avec des éléments nouveaux tels que de nouvelles armes, de nouvelles structures, etc...\
 L'objectif est simple, s'amuser en ajoutant du contenu sympa sans rendre Minecraft plus complet sans le rendre trop compliqué. 
 
 Toutes requêtes seront examinées et feront peut-être partie de la nouvelles versions du mod. 
