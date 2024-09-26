@@ -1,6 +1,6 @@
 Language : English & Français
 
-Discord official : https://discord.gg/kUqMpmkN5v\ 
+Discord official : https://discord.gg/kUqMpmkN5v \ 
 Faithful Pack : https://faithfulpack.net/
 
 ![HomePic](https://github.com/user-attachments/assets/a26a5e13-706e-469d-9a8d-03a72043ab93)
