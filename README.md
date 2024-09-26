@@ -1,6 +1,7 @@
 Language : English & Français
 
 Discord official : https://discord.gg/kUqMpmkN5v
+Faithful Pack : https://faithfulpack.net/
 
 ![HomePic](https://github.com/user-attachments/assets/a26a5e13-706e-469d-9a8d-03a72043ab93)
 
@@ -18,7 +19,10 @@ All requests will be considered and may be part of the new versions of the mod.
 Summary of added content : \
 -Shuriken\
 -Katanas\
--Adamite Ore
+-Adamite Ore\
+-Adamite Armor\
+-Abandonned structures\
+-Sleeping bag
 
 -------------------------------------------------------FRANCAIS--------------------------------------------------------------
 
@@ -34,4 +38,7 @@ Toutes requêtes seront examinées et feront peut-être partie de la nouvelles v
 Résumé du contenu ajouté : \
 -Shuriken\
 -Katanas\
--Minerais d'Adamite
+-Minerais d'Adamite\
+-Armure d'Adamite\
+-Structures abandonnées\
+-Sac de couchage
